@@ -1,7 +1,10 @@
-#Test av Markdown
+# Test av Markdown
 
-### namn
+### Namn:
 Alexander
 
-### Ålder
+### Ålder:
 28
+
+### Gillar:
+Katter, datorer, Träning.
