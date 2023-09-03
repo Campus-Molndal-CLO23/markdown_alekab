@@ -5,3 +5,6 @@ Alexander
 
 ### Ålder
 28
+
+### Gillar:
+Gott & Blandat
